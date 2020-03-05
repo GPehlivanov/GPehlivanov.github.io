@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # Heading 1
